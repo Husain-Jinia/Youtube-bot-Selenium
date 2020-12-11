@@ -8,7 +8,7 @@ what it does:
 -Scrolls down to the comment section
 -Accesses the youtube comment box and comments 
 -Scrolls back up and clicks the next button to access the next video 
--process from Step 3 Repeats
+-Process from Step 3 Repeats
 
 Pre-requsites Downloads:
 Selenium Package
